@@ -7,4 +7,3 @@ git clone https://github.com/msalas18/iw2023ittepic.git
 ![Alt text](image-2.png)
 
 
-   
